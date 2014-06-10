@@ -2,6 +2,7 @@
 
 ###connect to mysql  database using php
 
+```
 
 <?php
 $con=mysqli_connect("localhost","skotiyala","Yi0keek6","skotiyala");
