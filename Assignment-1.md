@@ -1,4 +1,4 @@
-###Assignment 2
+###Assignment 1
 
 ###connect to mysql  database using php
 
@@ -26,7 +26,7 @@ while($row = mysqli_fetch_array($result)) {
   echo "<td>" . $row['Name'] . "</td>";
   echo "<td>" . $row['NumMoons'] . "</td>";
   echo "<td>" . $row['Type'] . "</td>";
-  echo "<td>" . $row['LengthofYear'] . "</td>";
+  echo "<td>" . $row['LengthOfYear'] . "</td>";
   echo "</tr>";
 }
 
