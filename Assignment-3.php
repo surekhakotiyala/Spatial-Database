@@ -2,6 +2,11 @@
 # Surekha Kotiyala
 # My php code
 
+
+### index.php Or Assignment-3.php
+
+~~~
+
 <?php
 error_reporting(0);
        // Create connection
@@ -160,3 +165,4 @@ function sql_to_coordinates($blob)
                return random_color_part() . random_color_part() . random_color_part();
        }
 ?>
+~~~~~~
